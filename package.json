@@ -1,6 +1,6 @@
 {
     "name": "react-loading-shimmering",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "This is a simple component to emulate a loading as a list format",
     "main": "build/index.js",
     "bugs": {
