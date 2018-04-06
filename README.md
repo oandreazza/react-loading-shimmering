@@ -7,4 +7,4 @@
 $ npm install --save-dev react-loading-shimmering
 ```
 ### 2. Import into your component
-![MyComponent](screenshot/component.png)
+![MyComponent](https://raw.githubusercontent.com/oandreazza/react-loading-shimmering/master/screenshot/component.png)
