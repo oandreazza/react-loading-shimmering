@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/react-loading-shimmering.svg)](https://badge.fury.io/js/react-loading-shimmering)
 # React-Loading-Shimmering
 
 ## How to use
